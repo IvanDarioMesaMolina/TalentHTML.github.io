@@ -33,3 +33,8 @@ body {
 h3 {
     color: #333;
 }
+@media screen and(max-width:640px) {
+    body{
+        background-color: aquamarine;
+    }
+}
